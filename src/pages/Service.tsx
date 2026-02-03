@@ -167,7 +167,7 @@ const Service = () => {
         <div className="text-center mb-6">
           <div className="flex items-center justify-center gap-2 text-primary font-bold text-3xl mb-2">
             <Zap className="w-7 h-7" />
-            Okoa Chapaa
+            Nyota Pay
           </div>
           <p className="text-muted-foreground">
             Pay processing fee to receive your loan
